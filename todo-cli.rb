@@ -2,8 +2,8 @@ class TodoCli < Formula
   include Language::Python::Virtualenv
 
   desc "Simple, beautiful command-line todo application for developers"
-  homepage "https://github.com/yourusername/todo-cli"
-  url "https://github.com/yourusername/todo-cli/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/Matthew-Jia/todo-cli"
+  url "https://github.com/Matthew-Jia/todo-cli/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "REPLACE_WITH_ACTUAL_SHA256_AFTER_RELEASE"
   license "MIT"
 
