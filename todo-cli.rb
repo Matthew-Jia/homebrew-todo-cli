@@ -4,7 +4,7 @@ class TodoCli < Formula
   desc "Simple, beautiful command-line todo application for developers"
   homepage "https://github.com/Matthew-Jia/todo-cli"
   url "https://github.com/Matthew-Jia/todo-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256_AFTER_RELEASE"
+  sha256 "2adfb4cbcdcc678fb88230743a6d59344f80b0f35b50eef7f374cead66b1e784"
   license "MIT"
 
   depends_on "python@3.9"
